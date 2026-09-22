@@ -28,3 +28,9 @@ tsconfig.tsbuildinfo
 
 # Environment variables
 .env*
+
+# Python virtual environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]

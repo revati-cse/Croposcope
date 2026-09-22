@@ -7,7 +7,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@/convex/*": ["./convex/*"],
+      "@/convex/*": ["frontend/convex/*"],
       "@/*": ["./src/*"],
     }
   }
